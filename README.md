@@ -315,8 +315,7 @@ Future versions of MediSlot can include:
 * Hospital analytics and reporting
 
 ## GitHub Repository
-
-https://github.com/Kaniska957/MediSlot
+https://github.com/Kaniska957/medisl-ot.git
 
 ## License
 
